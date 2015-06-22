@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-19 13:57+0000\n"
-"PO-Revision-Date: 2015-06-21 15:43+0700\n"
+"PO-Revision-Date: 2015-06-22 17:04+0700\n"
 "Last-Translator: <>\n"
 "Language-Team: tungnt <tungnt1>\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Language: vi\n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: Poedit 1.8\n"
 
 #. module: base_vat
 #: view:res.partner:base_vat.view_partner_form
@@ -42,7 +42,7 @@ msgstr "Nếu được chọn, MST của Đối tác sẽ được kiểm tra đ
 #: code:addons/base_vat/base_vat.py:135
 #, python-format
 msgid "Importing VAT Number [%s] is not valid !"
-msgstr "Nhập khẩu không đúng MST [%s] !"
+msgstr "Nhập khẩu không đúng định dạng MST [%s] !"
 
 #. module: base_vat
 #: model:ir.model,name:base_vat.model_res_partner
